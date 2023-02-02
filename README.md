@@ -1,5 +1,5 @@
 # Estrutura de pastas
-
+<pre>
 | /src
 | | /controllers
 | | | /controller
@@ -30,6 +30,7 @@
 |_ package.json
 |_ README.md
 |\_ tsconfig.json
+</pre>
 
 ## .Env example
 
